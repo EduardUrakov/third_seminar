@@ -7,4 +7,6 @@
 
 ## Branch merging
 
+* *git merge*
+
 ## Conflicts
