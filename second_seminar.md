@@ -7,4 +7,6 @@
 
 ## Branch merging
 
+* *git merge* - команда, осуществляющая слияние текущей ветки с branch
+
 ## Conflicts
