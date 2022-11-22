@@ -1,1 +1,7 @@
-## Git education. Branches.
+# Git education. Branches.
+
+## Branch creating
+
+## Branch merging
+
+## Conflicts
